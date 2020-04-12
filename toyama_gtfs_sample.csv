@@ -1,0 +1,101 @@
+organization,service_name,metadata_created,metadata_modified,author,title,notes,license,resource_name,resource_url,resource_created,trip_update_url,vehicle_position_url
+富山市,まいどはやバス,2019-01-11T08:37:33.973258,2020-03-10T07:06:06.402452,富山市活力都市創造部交通政策課,【富山市】まいどはやバスGTFS-JP,"富山市が公開するまいどはやバスGTFS-JPで、富山市オープンデータサイトにリンクしています。データの利用にあたっては、富山市オープンデータ利用規約に従ってください。 
+
+【富山市オープンデータ利用規約】  
+https://opdt.city.toyama.lg.jp/pages/terms",cc-zero,【富山市】まいどはやバスGTFS-JP（2020年4月1日改正）,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/43903d9f-1d9c-42f0-bd01-8a5fc1cb828c/download/city-toyama-maidohaya-gtfs20200401.zip,2020-03-10T07:06:06.431915,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-maidohaya/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-maidohaya/VehiclePositions.pb
+富山市,呉羽いきいきバス,2019-01-11T08:40:52.931217,2020-03-10T07:08:00.672131,富山市活力都市創造部交通政策課,【富山市】呉羽いきいきバスGTFS-JP,"富山市が公開する呉羽いきいきバスGTFS-JPで、富山市オープンデータサイトにリンクしています。データの利用にあたっては、富山市オープンデータ利用規約に従ってください。 
+
+【富山市オープンデータ利用規約】  
+https://opdt.city.toyama.lg.jp/pages/terms",cc-zero,【富山市】呉羽いきいきバスGTFS-JP（2020年4月1日改正）,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/26db7690-aa7e-41b2-8596-0d8bdcd5c885/download/city-toyama-kureha-gtfs20200401.zip,2020-03-10T07:08:00.723691,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-kureha/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-kureha/VehiclePositions.pb
+富山市,水橋ふれあいコミュニティバス,2019-01-11T08:43:48.040045,2020-03-10T07:10:02.809864,富山市活力都市創造部交通政策課,【富山市】水橋ふれあいコミュニティバスGTFS-JP,"富山市が公開する水橋ふれあいコミュニティバスGTFS-JPで、富山市オープンデータサイトにリンクしています。データの利用にあたっては、富山市オープンデータ利用規約に従ってください。 
+  
+【富山市オープンデータ利用規約】  
+https://opdt.city.toyama.lg.jp/pages/terms",cc-zero,【富山市】水橋ふれあいコミュニティバスGTFS-JP（2020年4月1日改正）,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/ff01c4dd-14e7-4dbc-acea-09bff6b7d40e/download/city-toyama-mizuhashi-gtfs20200401.zip,2020-03-10T07:10:02.835734,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-mizuhashi/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-mizuhashi/VehiclePositions.pb
+富山市,婦中コミュニティバス,2019-01-11T08:45:27.966520,2020-03-10T07:11:39.942064,富山市活力都市創造部交通政策課,【富山市】婦中コミュニティバスGTFS-JP,"富山市が公開する婦中コミュニティバスGTFS-JPで、富山市オープンデータサイトにリンクしています。データの利用にあたっては、富山市オープンデータ利用規約に従ってください。 
+
+【富山市オープンデータ利用規約】  
+https://opdt.city.toyama.lg.jp/pages/terms",cc-zero,【富山市】婦中コミュニティバスGTFS-JP（2020年4月1日改正）,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/61a024ce-a377-4dd3-a3c0-b46183896597/download/city-toyama-fuchu-gtfs20200401.zip,2020-03-10T07:11:39.967300,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-fuchu/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-fuchu/VehiclePositions.pb
+富山市,八尾コミュニティバス,2019-01-11T08:47:08.169591,2020-03-10T07:14:11.160181,富山市活力都市創造部交通政策課,【富山市】八尾コミュニティバスGTFS-JP,"富山市が公開する八尾コミュニティバスGTFS-JPで、富山市オープンデータサイトにリンクしています。データの利用にあたっては、富山市オープンデータ利用規約に従ってください。 
+
+【富山市オープンデータ利用規約】  
+https://opdt.city.toyama.lg.jp/pages/terms",cc-zero,【富山市】八尾コミュニティバスGTFS-JP（2020年4月1日改正）,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/927992fb-e889-43cb-aa55-3bc3cab2e0aa/download/city-toyama-yatsuo-gtfs20200401.zip,2020-03-10T07:13:28.277681,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-yatsuo/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-yatsuo/VehiclePositions.pb
+富山市,大山コミュニティバス,2019-01-11T08:53:04.804469,2020-03-10T07:16:20.660903,富山市活力都市創造部交通政策課,【富山市】大山コミュニティバスGTFS-JP,"富山市が公開する大山コミュニティバスGTFS-JPで、富山市オープンデータサイトにリンクしています。データの利用にあたっては、富山市オープンデータ利用規約に従ってください。 
+    
+【富山市オープンデータ利用規約】  
+https://opdt.city.toyama.lg.jp/pages/terms",cc-zero,【富山市】大山コミュニティバスGTFS-JP（2020年4月1日改正）,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/378bcf3e-8f32-477a-857d-2d3917b6e84d/download/city-toyama-oyama-gtfs20200401.zip,2020-03-10T07:15:50.841919,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-oyama/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-oyama/VehiclePositions.pb
+富山市,山田コミュニティバス,2019-01-11T08:55:09.690391,2020-03-10T07:18:08.700697,富山市活力都市創造部交通政策課,【富山市】山田コミュニティバスGTFS-JP,"富山市が公開する山田コミュニティバスGTFS-JPで、富山市オープンデータサイトにリンクしています。データの利用にあたっては、富山市オープンデータ利用規約に従ってください。 
+
+【富山市オープンデータ利用規約】
+https://opdt.city.toyama.lg.jp/pages/terms",cc-zero,【富山市】山田コミュニティバスGTFS-JP（2020年4月1日改正）,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/665ab7b2-e434-4a4a-8175-32a433b60008/download/city-toyama-yamada-gtfs20200401.zip,2020-03-10T07:18:08.713672,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-yamada/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-yamada/VehiclePositions.pb
+富山市,堀川南地域コミュニティバス,2019-07-05T05:53:37.925196,2020-03-10T07:22:53.492180,富山市活力都市創造部交通政策課,【富山市】堀川南地域コミュニティバスGTFS-JP,"富山市が公開する堀川南地域コミュニティバスGTFS-JPで、富山市オープンデータサイトにリンクしています。データの利用にあたっては、富山市オープンデータ利用規約に従ってください。   
+  
+【富山市オープンデータ利用規約】  
+https://opdt.city.toyama.lg.jp/pages/terms
+",cc-zero,【富山市】堀川南地域コミュニティバスGTFS-JP（2020年4月1日改正）,https://opdt.city.toyama.lg.jp/dataset/8de65493-0af7-49d3-aab6-b495fc3ea2b0/resource/5cb228a9-8a44-4db5-bbe5-3dcbabf1c1f6/download/city-toyama-horikawaminami-gtfs20200401.zip,2020-03-10T07:22:53.510537,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-horikawaminami/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-horikawaminami/VehiclePositions.pb
+高岡市,高岡市公営バス,2019-01-10T11:22:18.145201,2020-03-18T07:16:59.954428,高岡市地域振興課,【高岡市】高岡市公営バスGTFS-JP,"高岡市が公開する高岡市公営バスGTFS-JP（2020年4月1日改正）で、高岡市オープンデータカタログページにリンクしています。データの利用にあたっては、高岡市オープンデータ利用条件に従ってください。  
+  
+【高岡市オープンデータ利用条件】  
+https://www.city.takaoka.toyama.jp/joho/shise/opendata/info.html",cc-zero,【高岡市】高岡市公営バスGTFS-JPデータ（2020年4月1日改正）,https://www.city.takaoka.toyama.jp/joho/shise/opendata/documents/r20313citytakaokagtfs.zip,2020-03-18T07:10:45.359640,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/takaoka-city/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/takaoka-city/VehiclePositions.pb
+射水市,きときとバス,2019-02-25T07:17:09.982078,2020-03-18T07:08:24.282397,射水市生活安全課,【射水市】きときとバス GTFS-JP,"射水市が公開するきときとバス GTFS-JP （2020年4月1日改正）で、射水市オープンデータサイトにリンクしています。データの利用にあたっては、射水市オープンデータ利用規約に従ってください。   
+  
+【射水市オープンデータ利用規約】  
+http://www.city.imizu.toyama.jp/appupload/EDIT/071/071513.pdf
+",cc-zero,【射水市】きときとバス GTFS-JP（2020年4月1日改正）,https://www.city.imizu.toyama.jp/appupload/EDIT/086/086325.zip,2020-03-18T07:08:24.335394,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/imizu-city/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/imizu-city/VehiclePositions.pb
+魚津市,おもてなし魚津直行便,2019-01-22T09:01:29.074977,2020-03-18T07:16:30.953063,魚津市環境安全課,【魚津市】おもてなし魚津直行便 GTFS-JP,"魚津市が公開するおもてなし魚津直行便 GTFS-JP（2020年3月14日改正）で、魚津市オープンデータのページにリンクしています。データの利用にあたっては、魚津市オープンデータ利用条件に従ってください。  
+  
+【魚津市オープンデータ利用条件】  
+https://www.city.uozu.toyama.jp/guide/svGuideDtl.aspx?servno=13031&cdkb=ctg&cd=4701&topkb=C
+",cc-zero,【魚津市】おもてなし魚津直行便 GTFS-JP（2020年3月14日改正）,https://www.city.uozu.toyama.jp/contents/busdata/city_uozu_taxi_gtfs.zip,2020-03-03T00:04:30.394468,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/uozu_omotenashi/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/uozu_omotenashi/VehiclePositions.pb
+魚津市,魚津市民バス,2019-01-22T09:05:26.756478,2020-03-18T07:17:32.040233,魚津市環境安全課,【魚津市】魚津市民バス GTFS-JP,"魚津市が公開する魚津市民バス GTFS-JP（2020年4月1日改正）で、魚津市オープンデータのページにリンクしています。データの利用にあたっては、魚津市オープンデータ利用条件に従ってください。 
+
+【魚津市オープンデータ利用条件】  
+https://www.city.uozu.toyama.jp/guide/svGuideDtl.aspx?servno=13031&cdkb=ctg&cd=4701&topkb=C",cc-zero,【魚津市】魚津市民バス GTFS-JP（2020年4月1日改正）,https://www.city.uozu.toyama.jp/contents/busdata/city_uozu_shimin_gtfs.zip,2020-03-18T07:15:49.055676,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/uozu_shimin/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/uozu_shimin/VehiclePositions.pb
+滑川市,のる my car,2019-01-10T11:07:51.541502,2019-06-04T07:20:07.402105,滑川市産業民生部生活環境課,【滑川市】のる my car GTFS-JP,"滑川市が公開するのる my car GTFS-JPで、滑川市のオープンデータサイトにリンクしています。データの利用にあたっては、滑川市オープンデータ利用規約に従ってください。 
+
+【滑川市オープンデータ利用規約】
+https://www.city.namerikawa.toyama.jp/material/files/group/4/20190301_riyoukiyaku.pdf",cc-zero,【滑川市】のる my car GTFS-JP （2019年6月1日改正）,https://www.city.namerikawa.toyama.jp/material/files/group/10/city_namerikawa_gtfs.zip,2019-06-04T07:20:07.428451,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/namerikawa-city/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/namerikawa-city/VehiclePositions.pb
+黒部市,黒部市内路線バス（石田・愛本）,2019-03-20T07:25:16.781255,2019-11-28T06:16:07.646317,黒部市都市建設部都市政策課,【黒部市】黒部市内路線バス（石田・愛本）GTFS-JP,"黒部市が公開する黒部市内路線バス（石田・愛本）GTFS-JPで、黒部市オープンデータのページにリンクしています。データの利用にあたっては、黒部市オープンデータ利用規約に従ってください。 
+  
+【黒部市オープンデータ利用規約】  
+https://www.city.kurobe.toyama.jp/attach/EDIT/018/018470.pdf",cc-zero,【黒部市】黒部市内路線バス（石田・愛本）GTFS-JP (2019年4月1日改正),http://www.city.kurobe.toyama.jp/contents/busdata/city_kurobe_ishida_aimoto_gtfs.zip,2019-11-28T06:16:07.694536,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/kurobe_city_bus/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/kurobe_city_bus/VehiclePositions.pb
+黒部市,黒部市内路線バス（新幹線生地）,2019-03-20T07:28:20.571731,2019-11-28T06:14:50.173489,黒部市都市建設部都市政策課,【黒部市】黒部市内路線バス（新幹線生地）GTFS-JP,"黒部市が公開する黒部市内路線バス（新幹線生地）GTFS-JPで、黒部市オープンデータのページにリンクしています。データの利用にあたっては、黒部市オープンデータ利用規約に従ってください。  
+  
+【黒部市オープンデータ利用規約】  
+https://www.city.kurobe.toyama.jp/attach/EDIT/018/018470.pdf",cc-zero,【黒部市】黒部市内路線バス（新幹線生地）GTFS-JP（2019年4月1日改正）,http://www.city.kurobe.toyama.jp/contents/busdata/city_kurobe_shinkansen_ikuji_gtfs.zip,2019-11-28T06:14:50.220911,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/kurobe_shinkansen/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/kurobe_shinkansen/VehiclePositions.pb
+砺波市,砺波市営バス,2019-01-11T09:35:16.917230,2019-11-08T00:26:21.246601,砺波市福祉市民部生活環境課,【砺波市】砺波市営バスGTFS-JP,"砺波市が公開する砺波市営バスGTFS-JPです。
+",cc-zero,【砺波市】砺波市営バスGTFS-JP （2017年11月1日改正）,http://opendata.pref.toyama.jp/files/city_tonami_gtfs.zip,2019-11-08T00:26:21.266649,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/tonami-city/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/tonami-city/VehiclePositions.pb
+小矢部市,小矢部市営バス,2019-03-11T07:49:15.374468,2020-02-26T07:41:15.505496,小矢部市生活協働課,【小矢部市】小矢部市営バスGTFS-JP,"小矢部市が公開する小矢部市営バスGTFS-JPで、小矢部市オープンデータのページにリンクしています。データの利用にあたっては、小矢部市オープンデータ利用規約に従ってください。 
+
+【小矢部市オープンデータ利用規約】   
+http://www.city.oyabe.toyama.jp/ikkrwebBrowse/material/files/group/3/opendate_kiyaku.pdf",cc-zero,【小矢部市】小矢部市営バスGTFS-JP（2018年11月27日改正）,http://www.city.oyabe.toyama.jp/ikkrwebBrowse/material/files/group/3/bus20200214.zip,2020-02-26T07:41:15.518359,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/oyabe-city/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/oyabe-city/VehiclePositions.pb
+南砺市,南砺市営バス（なんバス）,2019-03-11T01:04:11.415958,2020-02-26T07:44:45.841349,南砺市地方創生推進課,【南砺市】南砺市営バス（なんバス）GTFS-JP,"南砺市が公開する南砺市営バス（なんバス）GTFS-JPで、南砺市のオープンデータのページにリンクしています。データの利用にあたっては、南砺市オープンデータ利用許諾条項に従ってください。  
+  
+【南砺市オープンデータ利用許諾条項】  
+https://www.city.nanto.toyama.jp/cms-sypher/www/secfolder/johoseisaku/tokei_top.htm",cc-zero,【南砺市】南砺市営バス（なんバス）GTFS-JP（2019年10月1日改正）,http://www.city.nanto.toyama.jp/cms-sypher/www/secfolder/johoseisaku/GTFS/200207city_nanto_gtfs.zip,2020-02-26T07:44:45.884463,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/nanto-city/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/nanto-city/VehiclePositions.pb
+上市町,上市町営バス,2019-03-08T10:39:22.839344,2020-03-19T06:46:50.729167,上市町企画課,【上市町】上市町営バスGTFSｰJP,"上市町が公開する上市町営バスGTFSｰJPで、上市町のオープンデータのページにリンクしています。データの利用にあたっては、上市町オープンデータ利用規約に従ってください。 
+
+【上市町オープンデータ利用規約】  
+http://www.town.kamiichi.toyama.jp/guide/svGuideDtl.aspx?servno=3608",cc-zero,【上市町】上市町営バスGTFSｰJP（2020年4月1日改正）,https://www.town.kamiichi.toyama.jp/attach/EDIT/008/008132.zip,2020-03-19T06:46:50.744572,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/kamiichi-town/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/kamiichi-town/VehiclePositions.pb
+立山町,立山町営バス,2019-01-11T07:52:16.373899,2020-03-12T02:45:40.142965,立山町住民課,【立山町】立山町営バスGTFS-JP,"立山町が公開する立山町営バスGTFS-JPで、立山町オープンデータサイトにリンクしています。データの利用にあたっては、立山町オープンデータ利用規約に従ってください。 
+
+【立山町オープンデータ利用規約】
+http://www.town.tateyama.toyama.jp/attach/EDIT/006/006039.pdf",cc-zero,【立山町】立山町営バスGTFS-JP（2018年8月6日改正）,https://www.town.tateyama.toyama.jp/attach/EDIT/007/007871.zip,2020-03-12T02:45:40.170033,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/tateyama-town/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/tateyama-town/VehiclePositions.pb
+入善町,のらんマイ･カー,2019-01-11T07:37:09.923345,2019-07-17T00:08:13.184461,入善町キラキラ商工観光課,【入善町】のらんマイ･カーGTFS-JP,"入善町が公開するのらんマイ･カーGTFS-JP （2019年3月16日改正）で、入善町のオープンデータのページにリンクしています。データの利用にあたっては、入善町オープンデータ利用規約に従ってください。 
+
+【入善町オープンデータ利用規約】
+https://www.town.nyuzen.toyama.jp/chose/johoseisaku/documents/riyokiyaku.pdf",cc-zero,【入善町】のらんマイ･カーGTFS-JP （2019年3月16日改正）,https://www.town.nyuzen.toyama.jp/chose/johoseisaku/documents/town_nyuzen_noran_gtfs.zip,2019-01-11T07:38:08.496900,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/nyuzen_noran/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/nyuzen_noran/VehiclePositions.pb
+入善町,入善新幹線ライナー,2019-01-11T07:43:03.690602,2019-10-01T05:22:19.445574,入善町キラキラ商工観光課,【入善町】入善新幹線ライナーGTFS-JP,"入善町が公開する入善新幹線ライナーGTFS-JP（2019年9月1日改正）で、入善町のオープンデータのページにリンクしています。データの利用にあたっては、入善町オープンデータ利用規約に従ってください。 
+  
+【入善町オープンデータ利用規約】  
+https://www.town.nyuzen.toyama.jp/chose/johoseisaku/documents/riyokiyaku.pdf",cc-zero,【入善町】入善新幹線ライナーGTFS-JP （2019年9月1日改正）,https://www.town.nyuzen.toyama.jp/chose/johoseisaku/documents/town_nyuzen_liner_gtfs.zip,2019-10-01T05:21:41.489601,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/nyuzen_liner/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/nyuzen_liner/VehiclePositions.pb
+朝日町,あさひまちバス,2018-12-25T06:52:09.759486,2020-03-10T02:26:50.444190,朝日町企画振興課,【朝日町】あさひまちバスGTFS-JPデータ,"朝日町が公開するあさひまちバスGTFS-JP（2019年3月18日改正）で、朝日町のオープンデータのページにリンクしています。データの利用にあたっては、朝日町オープンデータ利用規約に従ってください。   
+  
+【朝日町オープンデータ利用規約】  
+https://www.town.asahi.toyama.jp/ikkrwebBrowse/material/files/group/4/riyokiyaku_asahi.pdf",cc-zero,【朝日町】あさひまちバスGTFS-JPデータ（2020年3月16日改正）,https://www.town.asahi.toyama.jp/ikkrwebBrowse/material/files/group/4/town_asahi_gtfs_r020316.zip,2020-03-10T02:26:50.486409,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/asahimachi/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/asahimachi/VehiclePositions.pb
+富山地方鉄道,富山地鉄バス,2019-07-31T01:52:42.786073,2020-03-25T08:28:09.596857,富山地方鉄道株式会社,【富山地方鉄道】富山地鉄バスGTFS-JP,富山地方鉄道株式会社が公開する富山地鉄バスGTFS-JP（2020年4月1日改正）です。,cc-zero,【富山地方鉄道】富山地鉄バスGTFS-JP（2020年4月1日改正）,http://opendata.pref.toyama.jp/files/chitetsu_gtfs.zip,2020-03-25T08:28:09.619559,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/chitetsu/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/chitetsu/VehiclePositions.pb
+富山地方鉄道,富山港線フィーダーバス,2020-03-17T07:20:35.845154,2020-03-17T07:21:32.273337,富山地方鉄道株式会社,【富山地方鉄道】富山港線フィーダーバスGTFS-JP,富山地方鉄道株式会社が公開する富山港線フィーダーバスGTFS-JPです。,cc-zero,【富山地方鉄道】富山港線フィーダーバスGTFS-JP,http://opendata.pref.toyama.jp/files/chitetsu_feeder_gtfs.zip,2020-03-17T07:21:31.744386,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-feeder/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/toyama-city-feeder/VehiclePositions.pb
+加越能バス,加越能バス（一般路線）,2019-10-28T04:17:15.461358,2020-03-26T11:15:29.740169,加越能バス株式会社,【加越能バス】加越能バスGTFS-JP（一般路線）,加越能バス株式会社が公開する加越能バスGTFS-JP（一般路線、2020年4月1日改正）です。,cc-zero,【加越能バス】加越能バスGTFS-JP（一般路線）2020年4月1日改正,http://opendata.pref.toyama.jp/files/kaetsunou_gtfs_ippan.zip,2020-03-26T11:15:29.770771,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/kaetsuno/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/kaetsuno/VehiclePositions.pb
+加越能バス,加越能バス（世界遺産バス）,2019-10-28T04:27:39.012393,2020-03-27T12:41:32.289619,加越能バス株式会社,【加越能バス】加能越バスGTFS-JP（世界遺産バス）,加越能バス株式会社が公開する加越能バスGTFS-JP（世界遺産バス、2020年4月1日改正）です。,cc-zero,【加越能バス】加能越バスGTFS-JP（世界遺産バス）2020年4月1日改正,http://opendata.pref.toyama.jp/files/kaetsunou_gtfs_sekaiisan.zip,2020-03-27T12:41:32.337075,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/kaetsuno_sekaiisan/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/kaetsuno_sekaiisan/VehiclePositions.pb
+加越能バス,加越能バス（瑞龍寺線）,2019-10-28T04:28:53.388647,2019-10-28T05:16:43.026796,加越能バス株式会社,【加越能バス】加能越バスGTFS-JP（瑞龍寺線）,加越能バス株式会社が公開する加越能バスGTFS-JP（瑞龍寺線、2019年10月1日改正）です。,cc-zero,【加越能バス】加能越バスGTFS-JP（瑞龍寺線）2019年10月1日改正,http://opendata.pref.toyama.jp/files/kaetsunou_gtfs_zuiryuji.zip,2019-10-28T04:29:13.441648,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/kaetsuno_zuiryuji/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/kaetsuno_zuiryuji/VehiclePositions.pb
+加越能バス,加越能バス（氷見市街地周遊バス）,2019-12-26T06:16:05.451960,2020-01-08T08:19:31.610236,加越能バス株式会社,【加越能バス】加能越バスGTFS-JP（氷見市街地周遊バス）,加越能バス株式会社が公開する加越能バスGTFS-JP（氷見市街地周遊バス）です。,cc-zero,【加越能バス】加能越バスGTFS-JP（氷見市街地周遊バス）,http://opendata.pref.toyama.jp/files/kaetsunou_gtfs_himi.zip,2020-01-08T08:19:31.655806,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/kaetsuno_himi/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/kaetsuno_himi/VehiclePositions.pb
+西日本ジェイアールバス,西日本ジェイアールバス （名金線）,2019-10-01T04:56:12.816275,2020-03-18T07:02:25.568717,西日本ジェイアールバス株式会社,【西日本ジェイアールバス】西日本ジェイアールバスGTFS-JP（名金線）,西日本ジェイアールバス株式会社が公開する名金線の西日本ジェイアールバスGTFS-JP（2020年4月1日改正）です。,cc-zero,【西日本ジェイアールバス】西日本ジェイアールバスGTFS-JP（名金線）（2020年4月1日改正）,http://opendata.pref.toyama.jp/files/nishinihonjr_gtfs.zip,2020-03-18T07:02:25.592991,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/nishinihon_jr/TripUpdates.pb,https://files-skybrain.ekispert.jp/toyama/gtfs-rt/latest/nishinihon_jr/VehiclePositions.pb
