@@ -1,2 +1,6 @@
 # ToyamaGTFSTool
 富山県が公開したバスオープンデータを操作するツール
+- scraping_catalog.py
+富山県カタログサイトからURL一覧などをスクレイピングしCSVで保存する。
+- translation_converter.py
+引数に解凍したgtfsフォルダを指定することで、translations.txtを新形式に変換する。
