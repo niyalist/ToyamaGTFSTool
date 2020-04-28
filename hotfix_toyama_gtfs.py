@@ -56,12 +56,12 @@ def delete_line_with_keywords(file, keywords):
 
 def main(uncompressed_dir):
     uncompressed_path = Path(uncompressed_dir)
-    nanto_path = uncompressed_path.glob('*city_nanto_gtfs*')
+#    nanto_path = uncompressed_path.glob('*city_nanto_gtfs*')
     kaetsunou_ippan_path = uncompressed_path.glob('*kaetsunou_gtfs_ippan*')
     kaetsunou_sekaiisan_path = uncompressed_path.glob('*kaetsunou_gtfs_sekaiisan*')
 
-    for nanto in nanto_path:
-        fix_nanto(nanto)
+#    for nanto in nanto_path:
+#        fix_nanto(nanto)
 
     for ki in kaetsunou_ippan_path:
         fix_kaetsunou_ippan(ki)

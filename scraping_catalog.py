@@ -2,6 +2,7 @@ import requests
 import urllib.parse
 import datetime
 import csv
+import argparse
 from bs4 import BeautifulSoup
 
 def parse_ckan(html_url):
@@ -51,8 +52,20 @@ def write_csv(all_data):
         for data in all_data:
             writer.writerow(data)
 
+def write_text(all_data):
+    now = datetime.datetime.now()
+    filename = "gtfs_list_{0:%Y-%m-%d}.txt".format(now)
+
+    with open(filename, 'w') as f:
+        for data in all_data:
+            f.write(data['resource_url'])
+            f.write('\n')
 
 def main():
+    parser = argparse.ArgumentParser(description='富山県GTFSファイル一覧をCSV形式で取得.')
+    parser.add_argument('--static_list', action='store_true', default=False, help='GTFS一覧URLを記述したtxtファイルを出力する')
+    args = parser.parse_args()
+
     # スクレイピング対象の URL にリクエストを送り HTML を取得する
     res = requests.get('http://opendata.pref.toyama.jp/pages/gtfs_jp.htm')
     res.encoding = res.apparent_encoding  # 文字コードを自動判定して設定（富山県ページはShiftJIS）
@@ -93,7 +106,10 @@ def main():
             all_data.append(data)
             print('Download: {}, {}'.format(organization, service_name))
 
-    write_csv(all_data)
+    if args.static_list:
+        write_text(all_data)        
+    else:
+        write_csv(all_data)
 
 if __name__ == '__main__':
     main()
