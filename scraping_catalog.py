@@ -34,7 +34,7 @@ def parse_ckan(html_url):
         'metadata_modified': metadata_modified,
         'author': author,
         'title': title,
-        'notes': notes, 
+        'notes': notes,
         'license': license,
         'resource_name': resource_name,
         'resource_url': resource_url,
@@ -75,6 +75,12 @@ def main():
     all_data = []
     pre_organization = '' # organizationはコラムが結合されているので、空白の場合は上の欄の値を設定する
     for agency in soup.find_all('tr'):
+        if agency['style'] == 'display:none':
+            # GTFSの公開をやめたデータはdisplay:noneとなっている
+            # 例：富山港線フィーダーバスGTFSは地鉄バスのGTFSに統合されたため公開終了
+            #    入善新幹線ライナーは運休中のため公開中止
+            continue
+
         texts = [td.get_text() for td in agency.find_all('td')]
         links = [url.get('href') for url in agency.find_all('a')]
         # タイトル部分から全てが一つのテーブルになっている
@@ -107,7 +113,7 @@ def main():
             print('Download: {}, {}'.format(organization, service_name))
 
     if args.static_list:
-        write_text(all_data)        
+        write_text(all_data)
     else:
         write_csv(all_data)
 
